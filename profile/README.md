@@ -30,6 +30,7 @@
 
 ### Open source
 
+- [trade-show-prep-skill](https://github.com/DataOrigin/trade-show-prep-skill): free Claude skill to prepare, work and follow up a B2B trade show.
 - [dataorigin](https://github.com/DataOrigin/dataorigin) ([PyPI](https://pypi.org/project/dataorigin/)): Python helpers used by our data pipelines.
 
 ### Contact
